@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896803672248",
+    "project_id": "mercado-livre-c5393",
+    "storage_bucket": "mercado-livre-c5393.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896803672248:android:f3d341424192efe31b244d",
+        "android_client_info": {
+          "package_name": "com.example.mercadolivre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896803672248-ulnqqgpbc76rdec39l41flnkkqcgb0fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKGfxoV_ey4gb1-rd0zuh-c6bCHuDd35E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896803672248-ulnqqgpbc76rdec39l41flnkkqcgb0fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
