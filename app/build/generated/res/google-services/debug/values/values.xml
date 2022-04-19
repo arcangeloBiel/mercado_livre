@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">896803672248-ulnqqgpbc76rdec39l41flnkkqcgb0fm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">896803672248</string>
+    <string name="google_api_key" translatable="false">AIzaSyBKGfxoV_ey4gb1-rd0zuh-c6bCHuDd35E</string>
+    <string name="google_app_id" translatable="false">1:896803672248:android:f3d341424192efe31b244d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBKGfxoV_ey4gb1-rd0zuh-c6bCHuDd35E</string>
+    <string name="google_storage_bucket" translatable="false">mercado-livre-c5393.appspot.com</string>
+    <string name="project_id" translatable="false">mercado-livre-c5393</string>
+</resources>

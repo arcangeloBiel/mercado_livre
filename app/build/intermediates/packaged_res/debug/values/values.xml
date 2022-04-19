@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="amarelo">#FEDD1B</color>
+    <color name="amarelo_variacao">#F5D414</color>
+    <color name="azul">#3483FA</color>
+    <color name="black">#FF000000</color>
+    <color name="cinza">#BEBEBE</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transparente">#00F9F9FA</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">mercado livre </string>
+    <string name="default_web_client_id" translatable="false">896803672248-ulnqqgpbc76rdec39l41flnkkqcgb0fm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">896803672248</string>
+    <string name="google_api_key" translatable="false">AIzaSyBKGfxoV_ey4gb1-rd0zuh-c6bCHuDd35E</string>
+    <string name="google_app_id" translatable="false">1:896803672248:android:f3d341424192efe31b244d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBKGfxoV_ey4gb1-rd0zuh-c6bCHuDd35E</string>
+    <string name="google_storage_bucket" translatable="false">mercado-livre-c5393.appspot.com</string>
+    <string name="project_id" translatable="false">mercado-livre-c5393</string>
+    <string name="texto_titulo_principal"> O que está esperando?</string>
+    <style name="Theme.MercadoLivre" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/amarelo</item>
+        <item name="colorPrimaryVariant">@color/amarelo_variacao</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
