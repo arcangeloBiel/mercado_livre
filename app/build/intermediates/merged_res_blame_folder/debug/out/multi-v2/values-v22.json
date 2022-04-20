@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\c38c49bd67c064a761631368ed66496e\\transformed\\appcompat-1.4.1\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\115558\\.gradle\\caches\\transforms-3\\c38c49bd67c064a761631368ed66496e\\transformed\\appcompat-1.4.1\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

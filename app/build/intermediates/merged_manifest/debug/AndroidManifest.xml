@@ -24,7 +24,7 @@
         <activity
             android:name="com.example.mercadolivre.PrincipalActivity"
             android:exported="false"
-            android:parentActivityName="com.example.mercadolivre.MainActivity" />
+            android:theme="@style/Theme.MercadoLivre.NoActionBar" />
         <activity
             android:name="com.example.mercadolivre.LoginActivity"
             android:exported="false"
@@ -122,6 +122,10 @@
                 android:name="androidx.lifecycle.ProcessLifecycleInitializer"
                 android:value="androidx.startup" />
         </provider>
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.example.mercadolivre.com.squareup.picasso"
+            android:exported="false" />
     </application>
 
 </manifest>

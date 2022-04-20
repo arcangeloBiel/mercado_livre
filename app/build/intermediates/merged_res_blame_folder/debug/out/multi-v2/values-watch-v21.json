@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Administrador\\.gradle\\caches\\transforms-3\\c38c49bd67c064a761631368ed66496e\\transformed\\appcompat-1.4.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\115558\\.gradle\\caches\\transforms-3\\c38c49bd67c064a761631368ed66496e\\transformed\\appcompat-1.4.1\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

@@ -1,15 +1,7 @@
 [
     {
-        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icone_cadastro.png.flat",
-        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\icone_cadastro.png"
     },
     {
         "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cadastro.xml.flat",
@@ -28,8 +20,72 @@
         "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_promocao05.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\promocao05.png"
+    },
+    {
         "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_principal.xml.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\layout\\activity_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_pesquisa.xml.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable\\ic_menu_pesquisa.xml"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_promocao03.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\promocao03.png"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_produto02.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\produto02.png"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_text_customizado.xml.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable\\edit_text_customizado.xml"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_promocao01.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\promocao01.png"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_produto04.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\produto04.png"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_deslogar.xml.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable\\ic_menu_deslogar.xml"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_icone_cadastro.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\icone_cadastro.png"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_promocao06.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\promocao06.png"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_fundo.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\fundo.png"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable_caixa_texto_pesquisa_customizado.xml.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable\\caixa_texto_pesquisa_customizado.xml"
     },
     {
         "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
@@ -44,32 +100,36 @@
         "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_principal.xml.flat",
-        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\layout\\activity_principal.xml"
-    },
-    {
         "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_produto01.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\produto01.png"
     },
     {
-        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable_edit_text_customizado.xml.flat",
-        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable\\edit_text_customizado.xml"
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_promocao02.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\promocao02.png"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_promocao04.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\promocao04.png"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_produto03.png.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable-v24\\produto03.png"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_menu_humburguer.xml.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\drawable\\ic_menu_humburguer.xml"
     },
     {
         "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
