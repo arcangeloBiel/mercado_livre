@@ -1,5 +1,9 @@
 R_DEF: Internal format may change without notice
 local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
 color amarelo
 color amarelo_variacao
 color azul
@@ -12,9 +16,15 @@ color teal_200
 color teal_700
 color transparente
 color white
+drawable botao_filtro_customizado
 drawable caixa_texto_pesquisa_customizado
 drawable edit_text_customizado
 drawable fundo
+drawable ic_filtro_add
+drawable ic_filtro_carro
+drawable ic_filtro_celular
+drawable ic_filtro_compra
+drawable ic_filtro_oferta
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_menu_deslogar
@@ -31,7 +41,14 @@ drawable promocao03
 drawable promocao04
 drawable promocao05
 drawable promocao06
+font nunito
+font nunito_black
+font roboto
+id IdDescricaoProduto
+id IdPrecoProduto
 id button
+id cardView
+id cardView2
 id editTextTextPersonName
 id edit_email_login
 id edit_senha_login
@@ -39,12 +56,21 @@ id idBtnLogar
 id idCadastar
 id idEditEmail
 id idEditSenha
+id idImageProduto
 id idJaTenhoConta
+id idLinearButton
+id idNomeProduto
 id idTextoPrincipal
 id idtextTitulo
+id imageButton
+id imageButton2
+id imageButton3
+id imageButton4
+id imageButton5
 id imageView
 id image_button_deslogar
 id image_slider
+id recyclerViewListaProdutos
 id textView2
 id textView3
 id textView4
@@ -56,6 +82,7 @@ layout activity_cadastro
 layout activity_login
 layout activity_main
 layout activity_principal
+layout item_produto
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
