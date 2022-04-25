@@ -31,8 +31,6 @@ class PrincipalActivity : AppCompatActivity() {
         setContentView(R.layout.activity_principal)
         inicializarslider()
         getProduto()
-//        val recCharacters by lazy { findViewById<RecyclerView>(R.id.recyclerViewListaProdutos) }
-//        recCharacters.adapter = produtoAdapter
     }
 
     fun getProduto() {

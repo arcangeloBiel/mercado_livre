@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cadastro.xml.flat",
-        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\layout\\activity_cadastro.xml"
-    },
-    {
         "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_cadastro.xml.flat",
+        "source": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\src\\main\\res\\layout\\activity_cadastro.xml"
     },
     {
         "merged": "C:\\Users\\115558\\dev\\pessoal\\mercadolivre\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",

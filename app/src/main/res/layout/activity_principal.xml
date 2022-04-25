@@ -146,7 +146,6 @@
 
             <androidx.recyclerview.widget.RecyclerView
                 android:id="@+id/recyclerViewListaProdutos"
-                android:background="@color/cardview_dark_background"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"
