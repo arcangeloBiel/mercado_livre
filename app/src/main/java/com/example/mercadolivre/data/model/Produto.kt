@@ -7,7 +7,7 @@ data class Produto(
     var nome: String? = null,
     var preco: String? = null,
     var descricao: String? = null,
-    //val imageUrl: String,
+    var imageUrl: String? = null,
 ): Serializable
 //{
 //

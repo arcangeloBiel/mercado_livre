@@ -4,8 +4,10 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
 import com.example.mercadolivre.R
 import com.example.mercadolivre.data.model.Produto
 import com.example.mercadolivre.data.utils.ItemClickListener
@@ -37,7 +39,7 @@ class ProdutoAdapter(
         val nomeProduto: TextView = itemView.findViewById(R.id.idNomeProduto)
         val descricaoProduto: TextView = itemView.findViewById(R.id.IdDescricaoProduto)
         val precoProduto: TextView = itemView.findViewById(R.id.IdPrecoProduto)
-      //  val imgProduto: ImageView = itemView.findViewById(R.id.idImageProduto)
+        val imgProduto: ImageView = itemView.findViewById(R.id.idImageProduto)
 
         override fun onClick(v: View?) {
             clickListener?.onItemClick(v!!, layoutPosition)
@@ -65,7 +67,18 @@ class ProdutoAdapter(
             Log.d("teste", "adapter -> ${ dataSet[position].nome}")
             holder.precoProduto.text = ("Preço: ${dataSet[position].preco}")
             holder.descricaoProduto.text = dataSet[position].descricao
-         //   holder.imgProduto = ("${dataSet[position].imageUrl}")
+            try {
+                val imageItem = dataSet[position].imageUrl
+                if (imageItem != null) {
+                    Glide.with(holder.itemView)
+                        .load("${dataSet[position].imageUrl}")
+                        .into(holder.imgProduto)
+                } else {
+                    holder.imgProduto.setImageResource(R.drawable.produto01)
+                }
+            } catch (e: Exception) {
+                holder.imgProduto.setImageResource(R.drawable.produto01)
+            }
 
         }catch(e: Exception){
             Log.d("Picking","PickingPedidoItemAdapter Error - ${e.message}")
