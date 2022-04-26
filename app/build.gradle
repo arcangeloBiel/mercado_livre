@@ -52,4 +52,6 @@ dependencies {
 
     //dependência ricyclerView
     implementation 'androidx.recyclerview:recyclerview:1.2.0'
+   //gson
+    api 'com.google.code.gson:gson:2.8.6'
 }

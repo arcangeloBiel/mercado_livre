@@ -3,11 +3,11 @@ package com.example.mercadolivre.data.model
 import java.io.Serializable
 
 data class Produto(
-    val id: Int,
-    val nome: String,
-    val preco: String,
-    val descricao: String,
-    val imageUrl: String,
+    var id: String? = null,
+    var nome: String? = null,
+    var preco: String? = null,
+    var descricao: String? = null,
+    //val imageUrl: String,
 ): Serializable
 //{
 //
